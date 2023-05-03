@@ -1,5 +1,6 @@
 # tracking_scale_measurements
 Tracking and timing measurements done on scale
+Timestamps of measuring line crossing between scales are calculated by principle: [event_time – previous_event_time].
 
 
 ## Preview:
@@ -8,3 +9,4 @@ Tracking and timing measurements done on scale
 
 ## Results:
 ![Frame_2023-04-28_00-20-12_AdobeExpress](https://user-images.githubusercontent.com/106553826/235004873-62fdbdfd-a8e8-4a65-a2d4-332bea6ab71b.gif)
+
