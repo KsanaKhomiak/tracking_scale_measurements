@@ -1,5 +1,6 @@
 # tracking_scale_measurements
-Tracking and timing measurements done on scale
+Tracking and timing measurements done on scale.
+
 Timestamps of measuring line crossing between scales are calculated by principle: [event_time – previous_event_time].
 
 
